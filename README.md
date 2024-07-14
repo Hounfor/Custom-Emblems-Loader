@@ -1,4 +1,5 @@
 A small mod for loading your own emblems into BattleTech.
+
 How to use:
 1) Download and extract CustomEmblemsLoader.zip somewhere.
 2) Place the unzipped CustomEmblemsLoader folder in the BattleTech/Mods directory.
