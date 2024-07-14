@@ -9,6 +9,9 @@ Requirements for logos for correct display:
 2) The image format must be DDS.
 3) The image must be turned upside down.
 4) When saving an image in DDS format, it's recommended to use the following settings:
+
 – Compression: BC3/DXT5
+
 – All visible layers
+
 – Generate mipmaps
